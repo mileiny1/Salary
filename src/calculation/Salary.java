@@ -1,3 +1,4 @@
+// Author: Mileiny Nolasco 
 package calculation;
 import java.util.Scanner;
 
